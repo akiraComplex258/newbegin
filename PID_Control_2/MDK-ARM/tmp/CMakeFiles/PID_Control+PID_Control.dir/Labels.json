@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/CMakeFiles/PID_Control+PID_Control"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/CMakeFiles/PID_Control+PID_Control.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/CMakeFiles/PID_Control+PID_Control-complete.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-build.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-configure.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-database.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-download.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-executes.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-install.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-patch.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-test.rule"
+		},
+		{
+			"file" : "C:/Users/liaoz/Desktop/pROJECT/PID_Control/MDK-ARM/tmp/PID_Control+PID_Control/src/PID_Control+PID_Control-stamp/PID_Control+PID_Control-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PID_Control+PID_Control"
+		],
+		"name" : "PID_Control+PID_Control"
+	}
+}
