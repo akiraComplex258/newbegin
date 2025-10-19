@@ -1,0 +1,19 @@
+build-idx:
+  generated-by: csolution version 2.11.0
+  csolution: PID_Control.csolution.yml
+  cbuild-run: out/PID_Control+PID_Control.cbuild-run.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: PID_Control.cproject.yml
+  cbuilds:
+    - cbuild: out/PID_Control/PID_Control/PID_Control+PID_Control.cbuild.yml
+      project: PID_Control
+      configuration: +PID_Control
+      messages:
+        info:
+          - PID_Control.cbuild-pack.yml - file is already up-to-date
+          - PID_Control+PID_Control.cbuild-run.yml - file is already up-to-date
+          - PID_Control+PID_Control.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.10.1
+        - pack: ARM::CMSIS-NN@4.0.0
